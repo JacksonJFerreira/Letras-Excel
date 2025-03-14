@@ -22,3 +22,4 @@ Este é um aplicativo desenvolvido em Python utilizando a biblioteca `customtkin
    ```bash
    git clone https://github.com/seu-usuario/conversor-maiusculas-excel.git
    cd conversor-maiusculas-excel
+   pode usar o auto-py-to-exe para copilar o codigo fonte e adicionar as Bibliotecas.
